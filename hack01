@@ -7,6 +7,7 @@ Date: 2020/02/16
 #include <stdio.h>
 
 int main(void) {
-	printf("Haiwen Su\n");
+	printf("Haiwen Su Finance major\n");
+	printf(" Joseph Almutawa computer engineering major"\n);
 	return 0;
 }
